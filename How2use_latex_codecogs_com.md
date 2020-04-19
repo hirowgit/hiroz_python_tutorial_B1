@@ -1,7 +1,7 @@
-http://idken.net/posts/2017-02-28-math_github/
-https://latex.codecogs.com
-https://www.codecogs.com/latex/eqneditor.php
-
+http://idken.net/posts/2017-02-28-math_github/  
+https://latex.codecogs.com  
+https://www.codecogs.com/latex/eqneditor.php  
+  
 受光した信号を
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;x[k]\&space;(k=1&space;\dots&space;N)" />
 、サンプリング周波数を
