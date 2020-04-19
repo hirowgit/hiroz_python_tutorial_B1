@@ -62,4 +62,4 @@ Then you can translate some mathematical description to computer language descri
 
 https://github.com/fsavje/math-with-slack/issues/51
 
-<img src="https://latex.codecogs.com/gif.latex?\inline&space;x[k]\&space;(k=1&space;\dots&space;N)" />
+<a href="https://www.codecogs.com/eqnedit.php?latex=S=\sum_{i=1}^{N}{a^2}" target="_blank"><img src="https://latex.codecogs.com/gif.latex?S=\sum_{i=1}^{N}{a^2}" title="S=\sum_{i=1}^{N}{a^2}" /></a>
