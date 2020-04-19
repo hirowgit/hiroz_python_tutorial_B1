@@ -60,4 +60,6 @@ Then you can translate some mathematical description to computer language descri
 ---
 このような記述が、MathJaxでコンパイルされる（注：$ $ はインライン表示、$$ $$ は改行表示）。
 
+https://github.com/fsavje/math-with-slack/issues/51
+
 <img src="https://latex.codecogs.com/gif.latex?\inline&space;x[k]\&space;(k=1&space;\dots&space;N)" />
