@@ -1,3 +1,5 @@
+https://hirowgit.github.io/hiroz_python_tutorial_B1/index3.html
+
 環境：macOS High Sierra 10.13.6
 Slack Version 4.4.2
 
