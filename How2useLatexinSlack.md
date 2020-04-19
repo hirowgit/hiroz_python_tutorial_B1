@@ -58,3 +58,5 @@ disp(S);
 Then you can translate some mathematical description to computer language description.
 ---
 このような記述が、MathJaxでコンパイルされる（注：$ $ はインライン表示、$$ $$ は改行表示）。
+
+https://github.com/hirowgit/hiroz_python_tutorial_B1/blob/master/image.png
